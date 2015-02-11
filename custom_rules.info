@@ -1,0 +1,4 @@
+name = Custom rules
+description = A set of custom rules implementations
+package = Custom
+core = 7.x
